@@ -1,6 +1,5 @@
 # maze
-Random Maze
-"Random" maze generator using Depth-First Search.
+Random maze generator using Depth-First Search.
 
 Created by moracarlos, all rights reserved.
 
